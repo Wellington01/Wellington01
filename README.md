@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Wellington01/Wellington01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -22,4 +20,4 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |===========,'
--->
+```
