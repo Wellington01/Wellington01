@@ -5,4 +5,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunolm/)](https://www.linkedin.com/in/wellington-cristi-vilela-santana-a48b1123)
 
 --- 
-[Site Kodus](https://talents.kodus.io?ref=githubW) |
+[Site Kodus](https://kodus.io?ref=githubW)
