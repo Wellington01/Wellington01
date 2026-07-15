@@ -10,4 +10,4 @@ Before this: co-founder & CTO at ez.devs.
 
 Lately I've been thinking about observability for non-deterministic systems — I gave a talk on it ([logs-que-a-ia-entende](https://github.com/Wellington01/logs-que-a-ia-entende)), and it keeps turning out to be the hard part of shipping agents.
 
-[kodus.io](https://kodus.io?ref=githubW) · [@wellingtoncvs](https://x.com/wellingtoncvs) · [LinkedIn](https://www.linkedin.com/in/wellington-cristi-vilela-santana-a48b1123) · Bauru, Brazil 🇧🇷
+[kodus.io](https://kodus.io?ref=githubW) · [@wellingtoncvs](https://x.com/wellingtoncvs) · [LinkedIn](https://www.linkedin.com/in/wellington-santana-a48b1123) · Bauru, Brazil 🇧🇷
